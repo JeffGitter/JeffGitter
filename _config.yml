@@ -7,7 +7,7 @@
 # -----------------------------------------------------------------------------
 
 url: https://github.io              # the base hostname & protocol for your site, leave as is if you're hosting on GitHub Pages
-baseurl: /ThesisOnlineFramework/    # the subpath of your site, set to / if you're hosting on GitHub Pages as your user site
+baseurl: /    # the subpath of your site, set to / if you're hosting on GitHub Pages as your user site
 
 title: Jeff Gitter                     # The title on the top left of the site
 first_name: Jeff                    # Put your first name here
